@@ -21,7 +21,7 @@ Output: Pattern found at index 0
 
 
 -------------
-![alt text](cncf.jpg)
+![alt text](https://github.com/akashshukla7458/KMP_ALGO/blob/main/Pattern-Searching-2-1.png)
 
 ##### KMP (Knuth Morris Pratt) Pattern Searching
 
